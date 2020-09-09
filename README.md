@@ -7,7 +7,7 @@ My current interests are **Computer Vision**, **Machine Learning**, **Web Develo
 You can find me on:
 * [LinkedIn](https://www.linkedin.com/in/matt-peachey-02bb11152/) 
 * [Twitter](https://twitter.com/MattPeachey3)
-* [Website](https://mattpeachey.ca)
+* [Website](http://mattpeachey.ca)
 
 Please feel free to get in touch with me! 
 

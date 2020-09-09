@@ -9,6 +9,10 @@ You can find me on:
 * [Twitter](https://twitter.com/MattPeachey3)
 * [Website](https://mattpeachey.ca)
 
+Please feel free to get in touch with me! 
+
+Projects I have collaborated on: 
+* Coming soon..
 <!--
 **peacheym/peacheym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

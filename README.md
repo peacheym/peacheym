@@ -15,7 +15,7 @@ Please feel free to get in touch with me!
 #### Projects
 
 Some of the exciting projects that I have contributed to: 
-* [Tracker](https://github.com/canada-ca/tracker) - DMARC Scanner for the Gov. of Canada.
+* [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Gov. of Canada.
 <!--
 **peacheym/peacheym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -10,7 +10,7 @@ You can find me on:
 * [Twitter](https://twitter.com/MattPeachey3)
 * [Website](http://mattpeachey.ca)
 
-Please feel free to get in touch with me! 
+Please feel free to get in touch with me at any of these locations!
 
 ## Projects
 

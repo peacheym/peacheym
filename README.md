@@ -20,3 +20,5 @@ Some of the exciting projects that I have contributed to:
 Some of my favourite personal projects:
 * [NeoPixel 2048](https://github.com/peacheym/NeoPixel2048) - A hardware version of the popular mobile puzzle game.
 * [Aurebesh Translator](https://github.com/peacheym/aurebesh_translator) - A simple but fun project inspired by the starwars universe.
+
+I always enjoy chatting about and working on projects, big or small!  Please get in touch with me!

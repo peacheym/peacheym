@@ -14,7 +14,7 @@ Please feel free to get in touch with me at any of these locations!
 
 ## Projects
 
-Some of the exciting projects that I have contributed to: 
+Some of the exciting **open source** projects that I have contributed to: 
 * [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Gov. of Canada.
 
 Some of my favourite personal projects:

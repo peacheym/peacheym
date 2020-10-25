@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Matt Peachey!  I am a fourth year Computer Science student at [Dalhousie University](https://www.dal.ca/) in Halifax, Canada.
+My name is Matt Peachey!  I am a fourth year Computer Science student at [Dalhousie University](https://www.dal.ca/) in [Halifax, Canada](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia).
 
 My current interests are **Computer Vision**, **Machine Learning**, **Modern Web Development**, and **IoT** technologies.  I have enjoyed learning about these topics through classes, personal projects, and work experience.
 

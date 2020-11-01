@@ -17,6 +17,7 @@ Please feel free to get in touch with me at any of these locations!
 Some of the exciting **open source** projects that I have contributed to: 
 * [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Gov. of Canada.
 * [libmapper](https://github.com/libmapper/libmapper/) - A library for connecting things.
+* [more](./contributions).
 
 Some of my favourite personal projects:
 * [NeoPixel 2048](https://github.com/peacheym/NeoPixel2048) - A hardware version of the popular mobile puzzle game.

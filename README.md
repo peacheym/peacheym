@@ -15,7 +15,7 @@ Please feel free to get in touch with me at any of these locations!
 ## Projects
 
 Some of the exciting **open source** projects that I have contributed to: 
-* [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Gov. of Canada.
+* [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Government of Canada.
 * [libmapper](https://github.com/libmapper/libmapper/) - A library for connecting things.
 * [Microsoft MoveBox](https://github.com/microsoft/MoveBox-for-Microsoft-Rocketbox) - A toolbox to animate the Microsoft Rocketbox avatars using motion capture. 
 

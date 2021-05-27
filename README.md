@@ -2,7 +2,7 @@
 
 My name is Matt Peachey!  I am a fourth year Computer Science student at [Dalhousie University](https://www.dal.ca/faculty/computerscience.html) in [Halifax, Canada](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia).
 
-My current interests are **Computer Vision / Machine Learning**, **Human Computer Interaction (HCI)**, and **Modern Web** technologies.  I have enjoyed learning about these topics through classes, personal projects, and work / research opportunities.
+My current interests are **Computer Vision / Machine Learning**, **Human Computer Interaction (HCI)**, and **Modern Web** technologies.  I have enjoyed learning about these topics through research, classes, and work opportunities.
 
 ## Contact 
 You can find me on:

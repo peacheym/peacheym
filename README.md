@@ -14,11 +14,21 @@ Please feel free to get in touch with me on any of these platforms!
 
 ## Projects
 
+### Research
+
+A non-exhaustsive list of the research projects I have been fortunate enough to contribute to:
+
+* [MoveBox: Democratizing MoCap for the Microsoft Rocketbox Avatar Library](https://www.microsoft.com/en-us/research/publication/movebox-democratizing-mocap-for-the-microsoft-rocketbox-avatar-library/) - A research project that included the development of the MoveBox open source project.
+
+### Open Source
+
 Some of the exciting **open source** projects that I have contributed to: 
 * [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Government of Canada.
 * [libmapper](https://github.com/libmapper/libmapper/) - A library for connecting things.
   * [umapper](https://github.com/malloch/umapper) - A command line tool for interacting with distributed signal networks using libmapper. 
 * [Microsoft MoveBox](https://github.com/microsoft/MoveBox-for-Microsoft-Rocketbox) - A toolbox to animate the Microsoft Rocketbox avatars using motion capture. 
+
+### Personal
 
 Some of my favourite personal projects:
 * [NeoPixel 2048](https://github.com/peacheym/NeoPixel2048) - A hardware version of the popular mobile puzzle game.

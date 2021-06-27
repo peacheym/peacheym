@@ -18,7 +18,7 @@ Please feel free to get in touch with me on any of these platforms!
 
 A non-exhaustsive list of the research projects I have been fortunate enough to contribute to:
 
-* [MoveBox: Democratizing MoCap for the Microsoft Rocketbox Avatar Library](https://www.microsoft.com/en-us/research/publication/movebox-democratizing-mocap-for-the-microsoft-rocketbox-avatar-library/) - A research project that included the development of the MoveBox open source project.
+* [MoveBox: Democratizing MoCap for the Microsoft Rocketbox Avatar Library](https://www.microsoft.com/en-us/research/publication/movebox-democratizing-mocap-for-the-microsoft-rocketbox-avatar-library/) - A research project that included the development of the **MoveBox** toolkit.
 
 ### Open Source
 

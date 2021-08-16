@@ -25,8 +25,9 @@ A non-exhaustive list of the research projects I have been fortunate enough to c
 Some of the **open source** projects that I have contributed to: 
 * [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Government of Canada.
 * [libmapper](https://github.com/libmapper/libmapper/) - A library for connecting things.
+  * [IOMapper](https://github.com/lemurph/IOMapper) - A libmapper module for the Godot game engine.
   * [umapper](https://github.com/malloch/umapper) - A command line tool for interacting with distributed signal networks using libmapper.
-  * [webmapper](https://github.com/libmapper/webmapper) - An HTML5-based graphical interface to libmapper. 
+  * [webmapper](https://github.com/libmapper/webmapper) - An HTML5-based graphical interface to libmapper.
 * [Microsoft MoveBox](https://github.com/microsoft/MoveBox-for-Microsoft-Rocketbox) - A toolbox to animate the Microsoft Rocketbox avatars using motion capture. 
 
 ### Personal

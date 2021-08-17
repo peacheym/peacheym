@@ -19,6 +19,8 @@ Feel free to get in touch with me on any of these platforms!
 A non-exhaustive list of the research projects I have been fortunate enough to contribute to:
 
 * [MoveBox: Democratizing MoCap for the Microsoft Rocketbox Avatar Library](https://www.microsoft.com/en-us/research/publication/movebox-democratizing-mocap-for-the-microsoft-rocketbox-avatar-library/) - A research project that included the development of the **MoveBox** toolkit.
+* [StoryCreatAR](https://www.microsoft.com/en-us/research/publication/story-creatar-a-toolkit-for-spatially-adaptive-augmented-reality-storytelling/) - a Toolkit for Spatially-Adaptive Augmented Reality Storytelling.
+* [Using Space Syntax to Enable Walkable AR Experiences](https://ieeexplore.ieee.org/document/9288424) - A paper from November of 2020.
 
 ### Open Source
 

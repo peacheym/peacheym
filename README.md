@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Matt Peachey!  I am a Computer Science PhD student at [Dalhousie University](https://www.dal.ca/faculty/computerscience.html) in [Halifax, Canada](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia).
+My name is Matt Peachey!  I am a PhD student (Computer Science) at [Dalhousie University](https://www.dal.ca/faculty/computerscience.html) in [Halifax, Canada](https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia).
 
 My research interests lie at the intersection of **Human Computer Interaction (HCI)**, **Machine Learning**, and **Digital Musical Instruments**. 
 

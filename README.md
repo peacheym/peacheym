@@ -30,10 +30,4 @@ Some of the **open source** projects that I have contributed to:
   * [IOMapper](https://github.com/lemurph/IOMapper) - A libmapper module for the Godot game engine.
   * [umapper](https://github.com/malloch/umapper) - A command line tool for interacting with distributed signal networks using libmapper.
   * [webmapper](https://github.com/libmapper/webmapper) - An HTML5-based graphical interface to libmapper.
-* [Microsoft MoveBox](https://github.com/microsoft/MoveBox-for-Microsoft-Rocketbox) - A toolbox to animate the Microsoft Rocketbox avatars using motion capture. 
-
-### Personal
-
-Some of my favourite personal projects:
-* [NeoPixel 2048](https://github.com/peacheym/NeoPixel2048) - A hardware version of the popular mobile puzzle game.
-* [Aurebesh Translator](https://github.com/peacheym/aurebesh_translator) - A simple but fun project inspired by the starwars universe.
+* [Microsoft MoveBox](https://github.com/microsoft/MoveBox-for-Microsoft-Rocketbox) - A toolbox to animate the Microsoft Rocketbox avatars using motion capture.

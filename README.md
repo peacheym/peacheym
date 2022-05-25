@@ -7,7 +7,7 @@ My research interests lie at the intersection of **Human Computer Interaction (H
 
 ## Research
 
-A list of some of the research projects I have contributed to:
+A list of some of the **research projects** I have contributed to:
 
 * [MoveBox: Democratizing MoCap for the Microsoft Rocketbox Avatar Library](https://www.microsoft.com/en-us/research/publication/movebox-democratizing-mocap-for-the-microsoft-rocketbox-avatar-library/) - A research project that included the development of the **MoveBox** toolkit.
 * [StoryCreatAR](https://www.microsoft.com/en-us/research/publication/story-creatar-a-toolkit-for-spatially-adaptive-augmented-reality-storytelling/) - a Toolkit for Spatially-Adaptive Augmented Reality Storytelling.
@@ -15,7 +15,7 @@ A list of some of the research projects I have contributed to:
 
 ## Open Source
 
-Some of the **open source** projects that I have contributed to: 
+Some of the **open source projects** that I have contributed to: 
 * [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Government of Canada.
 * [libmapper](https://github.com/libmapper/libmapper/) - A library for connecting things.
   * [IOMapper](https://github.com/lemurph/IOMapper) - A libmapper module for the Godot game engine.

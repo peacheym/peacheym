@@ -4,17 +4,8 @@ My name is Matt Peachey!  I am a PhD student (Computer Science) at [Dalhousie Un
 
 My research interests lie at the intersection of **Human Computer Interaction (HCI)**, **Machine Learning**, and **Digital Musical Instruments**. 
 
-## Contact 
-You can find me on:
-* [LinkedIn](https://www.linkedin.com/in/matt-peachey-02bb11152/) 
-* [Twitter](https://twitter.com/MattPeachey3)
-* [Website](http://mattpeachey.ca)
 
-Feel free to get in touch with me on any of these platforms!
-
-## Projects
-
-### Research
+## Research
 
 A list of some of the research projects I have contributed to:
 
@@ -22,7 +13,7 @@ A list of some of the research projects I have contributed to:
 * [StoryCreatAR](https://www.microsoft.com/en-us/research/publication/story-creatar-a-toolkit-for-spatially-adaptive-augmented-reality-storytelling/) - a Toolkit for Spatially-Adaptive Augmented Reality Storytelling.
 * [Using Space Syntax to Enable Walkable AR Experiences](https://ieeexplore.ieee.org/document/9288424) - A paper from November of 2020.
 
-### Open Source
+## Open Source
 
 Some of the **open source** projects that I have contributed to: 
 * [Tracker](https://github.com/canada-ca/tracker) - Online security adherence manager for the Government of Canada.

@@ -10,10 +10,10 @@ My current research interests lie at the intersection of **Human Computer Intera
 A list of some of the **research projects** I have contributed to:
 
 * [Latent Representations of Synthesizer Patches](https://github.com/peacheym/LatentRepresentations) - Using generative ML models for synthesizer patch creation.
+* [Maplet](https://github.com/peacheym/maplet) - A Eurorack Module that brings the libmapper eco-system to modular synthesis.
 * [MoveBox: Democratizing MoCap for the Microsoft Rocketbox Avatar Library](https://www.microsoft.com/en-us/research/publication/movebox-democratizing-mocap-for-the-microsoft-rocketbox-avatar-library/) - A research project that included the development of the **MoveBox** toolkit.
 * [StoryCreatAR](https://www.microsoft.com/en-us/research/publication/story-creatar-a-toolkit-for-spatially-adaptive-augmented-reality-storytelling/) - a Toolkit for Spatially-Adaptive Augmented Reality Storytelling.
-* [Using Space Syntax to Enable Walkable AR Experiences](https://ieeexplore.ieee.org/document/9288424) - A paper from November of 2020.
-
+  
 ## Open Source
 
 Some of the **open source projects** that I have contributed to: 
